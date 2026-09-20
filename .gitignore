@@ -63,3 +63,9 @@ target/
 
 # OMC
 .omc/
+
+# 인증키
+src/key.properties
+
+# 인증키가 포함된 파일
+wk3_김소희.ipynb
